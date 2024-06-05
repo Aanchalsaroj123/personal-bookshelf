@@ -11,7 +11,7 @@ Responsive Design: The application is fully responsive, providing a seamless exp
 ### Installation`
 
 #### Clone the repository:
-git clone https://github.com/yourusername/personal-bookshelf.git <br>
+git clone https://github.com/Aanchalsaroj123/personal-bookshelf.git <br>
 cd personal-bookshelf
 #### Install dependencies:
 npm install
