@@ -1,0 +1,19 @@
+.recommended-heading{
+    text-align: center;
+    justify-content: center;
+    padding-bottom: 40px;
+    font-size: 1.5rem;
+    color: rgb(1, 1, 26);
+  }
+  @media (max-width: 600px) {
+    .home-page{
+      margin-top:auto;
+    }
+    .recommended-heading{
+      text-align: center;
+      justify-content: center;
+      padding-bottom: 20px;
+      font-size: 1rem;
+      color: rgb(1, 1, 26);
+    }
+  }
